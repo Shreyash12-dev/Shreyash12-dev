@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Shreyash
 
-<!--
-**Shreyash12-dev/Shreyash12-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at JSPM's RSOCE  
+💻 Currently learning web development and problem solving  
+📚 Practicing DSA in C++  
+🚀 Exploring full stack development and AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Current Skills
+
+- C
+- C++
+- HTML
+- Basic CSS
+- Git & GitHub
+
+---
+
+## 📖 Currently Learning
+
+- JavaScript
+- React.js
+- Backend Development
+- APIs
+
+---
+
+## 🎯 Current Focus
+
+- Improving coding consistency
+- Building projects
+- Learning modern development
+- Growing step by step as a developer
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Coming Soon
+- Portfolio: Working On It
