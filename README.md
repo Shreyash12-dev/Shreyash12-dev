@@ -2,7 +2,11 @@
 
 ### Computer Engineering Student | Learning Full Stack Development
 
-🎓 Student at JSPM's RSOCE  
+---
+
+## 👨‍💻 About Me
+
+🎓 Computer Engineering student at JSPM's RSOCE  
 📚 Practicing DSA in C++  
 🚀 Exploring Web Development & AI  
 
