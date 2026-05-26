@@ -2,10 +2,9 @@
 
 ### Computer Engineering Student | Learning Full Stack Development
 
-🎓 Computer Engineering student at JSPM's RSOCE  
-💻 Currently learning web development and problem solving  
+🎓 Student at JSPM's RSOCE  
 📚 Practicing DSA in C++  
-🚀 Exploring full stack development and AI step by step  
+🚀 Exploring Web Development & AI  
 
 ---
 
@@ -28,25 +27,6 @@
 - React.js
 - Backend Development
 - APIs
-- Problem Solving
-
----
-
-## 🎯 Current Focus
-
-- Improving coding consistency
-- Building small projects
-- Learning modern web development
-- Growing step by step as a developer
-
----
-
-## 📂 Current Goals
-
-- Build strong project fundamentals
-- Improve DSA regularly
-- Create better GitHub projects
-- Learn full stack development properly
 
 ---
 
@@ -57,3 +37,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+📧 Email: magarahreyash620@gmail.com
